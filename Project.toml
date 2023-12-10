@@ -1,0 +1,9 @@
+name = "AdventOfCode2023"
+uuid = "cc8facd5-22e8-4416-954b-3c20c6b1136e"
+authors = ["Dan Burns <37267067+danjburns@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+Pipe = "b98c9c47-44ae-5843-9183-064241ee97a0"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
